@@ -1,5 +1,4 @@
-
-![zyro-image (1)]()
+![anime-logo-de-anime-person-human-outdoors-crowd-transparent-png-2487608-removebg-preview](https://user-images.githubusercontent.com/102013411/168346425-093e61a0-fdfb-40e2-8a5d-b06ef9520e5f.png)
 
 ## About Anime J?
 Anime J merupakan web untuk mencari daftar anime yg ingin ditonton. Aplikasi ini memiliki fitur membuat, mengubah, dan menghapus reservasi. Untuk membuat fitur tersebut tentu saja program ini memakai sistem CRUD yang tersedia pada web development.
